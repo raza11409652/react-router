@@ -1,0 +1,12 @@
+.nav{
+    background: #ffffff;
+    padding: 10px;
+}
+.nav ul {
+    list-style: none;
+}
+.nav ul li a{
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
